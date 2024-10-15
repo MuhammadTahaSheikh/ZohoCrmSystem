@@ -1,0 +1,406 @@
+.main_div_work_life {
+  height: 850px;
+}
+.you_life_para {
+  font-family: "Montserrat", sans-serif;
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 82.89px;
+  text-align: left;
+  color: #006bd4;
+  margin-top: 60px;
+}
+.work_para {
+  font-family: "Montserrat", sans-serif;
+  font-size: 196px;
+  font-weight: 800;
+  line-height: 40px;
+  text-align: left;
+  color: #e00d0d;
+}
+.powered_by_life_para {
+  font-family: "Montserrat", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58.51px;
+  text-align: left;
+  color: #006bd4;
+  margin-top: 55px;
+}
+.para_below_heading_work {
+  color: #222222;
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29.26px;
+  text-align: left;
+}
+.btn_get_start_free {
+  background: #e00d0d;
+  color: #ffffff;
+  width: 248px;
+  height: 60px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.5px;
+  letter-spacing: 0.05em;
+  text-align: center;
+  border-style: none;
+  margin-top: 25px;
+}
+.worklife_style_pic {
+  width: 100%;
+  transform: translateY(-13%);
+  display: flex;
+  justify-content: flex-end;
+}
+@media only screen and (max-width: 1900px) {
+    .worklife_style_pic {
+        width: 100%;
+        transform: translateY(-12.5%);
+      }
+}
+@media only screen and (max-width: 1700px) {
+  .main_div_work_life {
+    height: 850px;
+  }
+  .you_life_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 82.89px;
+    text-align: left;
+    color: #006bd4;
+    margin-top: 60px;
+  }
+  .work_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 170px;
+    font-weight: 800;
+    line-height: 40px;
+    text-align: left;
+    color: #e00d0d;
+  }
+  .powered_by_life_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 58.51px;
+    text-align: left;
+    color: #006bd4;
+    margin-top: 55px;
+  }
+  .para_below_heading_work {
+    color: #222222;
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29.26px;
+    text-align: left;
+  }
+  .btn_get_start_free {
+    background: #e00d0d;
+    color: #ffffff;
+    width: 218px;
+    height: 60px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19.5px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    border-style: none;
+    margin-top: 25px;
+  }
+  .worklife_style_pic {
+    width: 100%;
+    transform: translateY(-13.5%);
+  }
+  
+}
+@media only screen and (max-width: 1600px) {
+    .worklife_style_pic {
+        width: 100%;
+        transform: translateY(0%);
+      }
+      
+}
+@media only screen and (max-width: 1400px) {
+  .main_div_work_life {
+    height: 850px;
+  }
+  .you_life_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 82.89px;
+    text-align: left;
+    color: #006bd4;
+    margin-top: 60px;
+  }
+  .work_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 145px;
+    font-weight: 800;
+    line-height: 15px;
+    text-align: left;
+    color: #e00d0d;
+  }
+  .powered_by_life_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 33px;
+    font-weight: 600;
+    line-height: 58.51px;
+    text-align: left;
+    color: #006bd4;
+    margin-top: 45px;
+  }
+  .para_below_heading_work {
+    color: #222222;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.26px;
+    text-align: left;
+  }
+  .btn_get_start_free {
+    background: #e00d0d;
+    color: #ffffff;
+    width: 210px;
+    height: 60px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19.5px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    border-style: none;
+    margin-top: 25px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .main_div_work_life {
+    height: 850px;
+  }
+  .you_life_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 82.89px;
+    text-align: left;
+    color: #006bd4;
+    margin-top: 60px;
+  }
+  .work_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 115px;
+    font-weight: 800;
+    line-height: 15px;
+    text-align: left;
+    color: #e00d0d;
+  }
+  .powered_by_life_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 58.51px;
+    text-align: left;
+    color: #006bd4;
+    margin-top: 45px;
+  }
+  .para_below_heading_work {
+    color: #222222;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18.26px;
+    text-align: left;
+  }
+  .btn_get_start_free {
+    background: #e00d0d;
+    color: #ffffff;
+    width: 180px;
+    height: 60px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 19.5px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    border-style: none;
+    margin-top: 25px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .main_div_work_life {
+    height: 850px;
+  }
+  .you_life_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 52.89px;
+    text-align: left;
+    color: #006bd4;
+    margin-top: 60px;
+  }
+  .work_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 0px;
+    text-align: left;
+    color: #e00d0d;
+  }
+  .powered_by_life_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 58.51px;
+    text-align: left;
+    color: #006bd4;
+    margin-top: 20px;
+  }
+  .para_below_heading_work {
+    color: #222222;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.26px;
+    text-align: left;
+  }
+  .btn_get_start_free {
+    background: #e00d0d;
+    color: #ffffff;
+    width: 160px;
+    height: 60px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 19.5px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    border-style: none;
+    margin-top: 25px;
+  }
+}
+@media only screen and (max-width: 767px) {
+    .worklife_style_pic {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        margin-left: 10%;
+        margin-top: 20px;
+      
+        transform: translateY(0%);
+      }
+      .main_div_work_life {
+        height: 1050px;
+      }
+}
+@media only screen and (max-width: 600px) {
+ 
+  .you_life_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 32.89px;
+    text-align: left;
+    color: #006bd4;
+    margin-top: 60px;
+  }
+  .work_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    line-height: 0px;
+    text-align: left;
+    color: #e00d0d;
+  }
+  .powered_by_life_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 38.51px;
+    text-align: left;
+    color: #006bd4;
+    margin-top: 20px;
+  }
+  .para_below_heading_work {
+    color: #222222;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.26px;
+    text-align: left;
+  }
+  .btn_get_start_free {
+    background: #e00d0d;
+    color: #ffffff;
+    width: 140px;
+    height: 60px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 19.5px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    border-style: none;
+    margin-top: 25px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+   
+    .you_life_para {
+      font-family: "Montserrat", sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 32.89px;
+      text-align: left;
+      color: #006bd4;
+      margin-top: 60px;
+    }
+    .work_para {
+      font-family: "Montserrat", sans-serif;
+      font-size: 55px;
+      font-weight: 800;
+      line-height: 0px;
+      text-align: left;
+      color: #e00d0d;
+    }
+    .powered_by_life_para {
+      font-family: "Montserrat", sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 38.51px;
+      text-align: left;
+      color: #006bd4;
+      margin-top: 20px;
+    }
+    .para_below_heading_work {
+      color: #222222;
+      font-family: "Montserrat", sans-serif;
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 16.26px;
+      text-align: left;
+    }
+    .btn_get_start_free {
+      background: #e00d0d;
+      color: #ffffff;
+      width: 140px;
+      height: 60px;
+      font-family: "Montserrat", sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      line-height: 19.5px;
+      letter-spacing: 0.05em;
+      text-align: center;
+      border-style: none;
+      margin-top: 25px;
+    }
+  }

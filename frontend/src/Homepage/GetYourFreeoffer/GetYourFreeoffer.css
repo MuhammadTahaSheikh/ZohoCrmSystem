@@ -1,0 +1,1215 @@
+.main_div_getfreeoffer {
+  width: 100%;
+  height: 690px;
+  background: #006bd4;
+  padding: 0;
+  margin: 0;
+}
+.free_bussiness_consultant_div {
+  background: #e00d0d;
+  width: 50%;
+  height: 170px;
+  border-radius: 3px 3px 3px 3px;
+  transform: translateY(-70%);
+}
+.get_your_free_business_para {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34px;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 20px;
+}
+.get_your_free_business_para1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34px;
+  text-align: left;
+  color: #ffffff;
+}
+.hr_line_style {
+  width: 13px;
+  height: 125px;
+  margin-top: 20px;
+}
+.call_icon_style {
+  margin-left: 20px;
+  margin-top: 35px;
+}
+.phone_number_para {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 38.4px;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 40px;
+}
+.gmail_para {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  color: #ffffff;
+}
+.review_img_style {
+  width: 162px;
+  height: 109px;
+}
+.heading_review {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24.38px;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 10px;
+}
+.para_review {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.94px;
+  text-align: left;
+  color: #ffffff;
+  margin-left: 10px;
+  width: 50%;
+}
+.downarrow_style {
+  margin-top: 30px;
+}
+.comment_review {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28.8px;
+  text-align: justify;
+  color: #ffffff;
+  margin-top: 50px;
+}
+.uparrow_style {
+  margin-top: 220px;
+}
+.all_inonesuite_heading {
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 39.01px;
+  text-align: left;
+  color: #ffffff;
+}
+.all_inonesuite_heading1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 22.88px;
+  text-align: left;
+  color: #ffffff;
+}
+.all_inonesuite_heading2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 22.01px;
+  text-align: left;
+  color: #ffffff;
+}
+.all_inonesuite_para {
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 39.01px;
+  text-align: left;
+  color: #ffffff;
+}
+
+@media only screen and (max-width: 1700px) {
+  .main_div_getfreeoffer {
+    width: 100%;
+    height: 690px;
+    background: #006bd4;
+    padding: 0;
+    margin: 0;
+  }
+  .free_bussiness_consultant_div {
+    background: #e00d0d;
+    width: 70%;
+    height: 170px;
+    border-radius: 3px 3px 3px 3px;
+    transform: translateY(-70%);
+  }
+  .get_your_free_business_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 34px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  .get_your_free_business_para1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 34px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .hr_line_style {
+    width: 13px;
+    height: 125px;
+    margin-top: 20px;
+  }
+  .call_icon_style {
+    margin-left: 20px;
+    margin-top: 35px;
+  }
+  .phone_number_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 38.4px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 40px;
+  }
+  .gmail_para {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .review_img_style {
+    width: 162px;
+    height: 109px;
+  }
+  .heading_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24.38px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+  }
+  .para_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21.94px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+    width: 50%;
+  }
+  .downarrow_style {
+    margin-top: 30px;
+  }
+  .comment_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: justify;
+    color: #ffffff;
+    margin-top: 50px;
+  }
+  .uparrow_style {
+    margin-top: 220px;
+  }
+  .all_inonesuite_heading {
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 39.01px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 22.88px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 22.01px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .all_inonesuite_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 39.01px;
+    text-align: left;
+    color: #ffffff;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  .main_div_getfreeoffer {
+    width: 100%;
+    height: 690px;
+    background: #006bd4;
+    padding: 0;
+    margin: 0;
+  }
+  .free_bussiness_consultant_div {
+    background: #e00d0d;
+    width: 70%;
+    height: 170px;
+    border-radius: 3px 3px 3px 3px;
+    transform: translateY(-70%);
+  }
+  .get_your_free_business_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  .get_your_free_business_para1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .hr_line_style {
+    width: 13px;
+    height: 125px;
+    margin-top: 20px;
+  }
+  .call_icon_style {
+    margin-left: 20px;
+    margin-top: 35px;
+  }
+  .phone_number_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 38.4px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 40px;
+  }
+  .gmail_para {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .review_img_style {
+    width: 162px;
+    height: 109px;
+  }
+  .heading_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24.38px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+  }
+  .para_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21.94px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+    width: 70%;
+  }
+  .downarrow_style {
+    margin-top: 30px;
+  }
+  .comment_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24.8px;
+    text-align: justify;
+    color: #ffffff;
+    margin-top: 50px;
+  }
+  .uparrow_style {
+    margin-top: 220px;
+  }
+  .all_inonesuite_heading {
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 39.01px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 18.88px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 22.01px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .all_inonesuite_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32.01px;
+    text-align: left;
+    color: #ffffff;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .main_div_getfreeoffer {
+    width: 100%;
+    height: 690px;
+    background: #006bd4;
+    padding: 0;
+    margin: 0;
+  }
+  .free_bussiness_consultant_div {
+    background: #e00d0d;
+    width: 80%;
+    height: 170px;
+    border-radius: 3px 3px 3px 3px;
+    transform: translateY(-70%);
+  }
+  .get_your_free_business_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  .get_your_free_business_para1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .hr_line_style {
+    width: 13px;
+    height: 125px;
+    margin-top: 20px;
+  }
+  .call_icon_style {
+    margin-left: 20px;
+    margin-top: 35px;
+  }
+  .phone_number_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 38.4px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 40px;
+  }
+  .gmail_para {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .review_img_style {
+    width: 142px;
+    height: 89px;
+  }
+  .heading_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24.38px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+  }
+  .para_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18.94px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+    width: 90%;
+  }
+  .downarrow_style {
+    margin-top: 30px;
+  }
+  .comment_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: justify;
+    color: #ffffff;
+    margin-top: 50px;
+  }
+  .uparrow_style {
+    margin-top: 220px;
+  }
+  .all_inonesuite_heading {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 39.01px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 18.88px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.01px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .all_inonesuite_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24.01px;
+    text-align: left;
+    color: #ffffff;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .main_div_getfreeoffer {
+    width: 100%;
+    height: 690px;
+    background: #006bd4;
+    padding: 0;
+    margin: 0;
+  }
+  .free_bussiness_consultant_div {
+    background: #e00d0d;
+    width: 85%;
+    height: 170px;
+    border-radius: 3px 3px 3px 3px;
+    transform: translateY(-70%);
+  }
+  .get_your_free_business_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 20px;
+  }
+  .get_your_free_business_para1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .hr_line_style {
+    width: 13px;
+    height: 125px;
+    margin-top: 20px;
+  }
+  .call_icon_style {
+    margin-left: 20px;
+    margin-top: 35px;
+  }
+  .phone_number_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 38.4px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 40px;
+  }
+  .gmail_para {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .review_img_style {
+    width: 142px;
+    height: 89px;
+  }
+  .heading_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 24.38px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+  }
+  .para_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+    width: 90%;
+  }
+  .downarrow_style {
+    margin-top: 30px;
+  }
+  .comment_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: justify;
+    color: #ffffff;
+    margin-top: 50px;
+  }
+  .uparrow_style {
+    margin-top: 120px;
+  }
+  .all_inonesuite_heading {
+    margin-top: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 34.01px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 18.88px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20.01px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .all_inonesuite_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20.01px;
+    text-align: center;
+    color: #ffffff;
+    width: 90%;
+    margin-left: 5%;
+  }
+}
+
+@media only screen and (max-width: 870px) {
+  .main_div_getfreeoffer {
+    width: 100%;
+    height: auto;
+
+    background: #006bd4;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 20%;
+  }
+  .free_bussiness_consultant_div {
+    background: #e00d0d;
+    width: 85%;
+    height: 170px;
+    border-radius: 3px 3px 3px 3px;
+    transform: translateY(-70%);
+  }
+  .get_your_free_business_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 30px;
+  }
+  .get_your_free_business_para1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .hr_line_style {
+    width: 13px;
+    height: 125px;
+    margin-top: 20px;
+  }
+  .call_icon_style {
+    margin-left: 20px;
+    margin-top: 55px;
+    width: 60px;
+    height: 60px;
+  }
+  .phone_number_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 38.4px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 40px;
+  }
+  .gmail_para {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .review_img_style {
+    width: 142px;
+    height: 89px;
+  }
+  .heading_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 24.38px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+  }
+  .para_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+    width: 90%;
+  }
+  .downarrow_style {
+    margin-top: 30px;
+  }
+  .comment_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: justify;
+    color: #ffffff;
+    margin-top: 50px;
+  }
+  .uparrow_style {
+    margin-top: 120px;
+  }
+  .all_inonesuite_heading {
+    margin-top: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 34.01px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 18.88px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20.01px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .all_inonesuite_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20.01px;
+    text-align: center;
+    color: #ffffff;
+    width: 90%;
+    margin-left: 5%;
+  }
+}
+
+@media only screen and (max-width: 630px) {
+  .main_div_getfreeoffer {
+    width: 100%;
+    height: auto;
+    background: #006bd4;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 20%;
+  }
+  .free_bussiness_consultant_div {
+    background: #e00d0d;
+    width: 95%;
+    height: 170px;
+    border-radius: 3px 3px 3px 3px;
+    transform: translateY(-70%);
+  }
+  .get_your_free_business_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 30px;
+  }
+  .get_your_free_business_para1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .hr_line_style {
+    width: 13px;
+    height: 125px;
+    margin-top: 20px;
+  }
+  .call_icon_style {
+    margin-left: 0px;
+    margin-top: 55px;
+    width: 40px;
+    height: 40px;
+  }
+  .phone_number_para {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 32.4px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 40px;
+  }
+  .gmail_para {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .review_img_style {
+    width: 80px;
+    height: 49px;
+  }
+  .heading_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20.38px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+  }
+  .para_review {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.94px;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 10px;
+    width: 100%;
+  }
+  .downarrow_style {
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+  }
+  .comment_review {
+    margin-left: 10%;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: justify;
+    color: #ffffff;
+    margin-top: 50px;
+  }
+  .uparrow_style {
+    width: 20px;
+    height: 20px;
+    margin-top: 180px;
+  }
+  .all_inonesuite_heading {
+    margin-top: 14px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 34.01px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 18.88px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .all_inonesuite_heading2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20.01px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .all_inonesuite_para {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18 .01px;
+    text-align: center;
+    color: #ffffff;
+    width: 90%;
+    margin-left: 5%;
+  }
+}
+
+@media only screen and (max-width: 470px) {
+    .main_div_getfreeoffer {
+      width: 100%;
+      height: auto;
+      background: #006bd4;
+      padding: 0;
+      margin: 0;
+      padding-bottom: 20%;
+    }
+    .free_bussiness_consultant_div {
+      background: #e00d0d;
+      width: 100%;
+      height: 120px;
+      border-radius: 3px 3px 3px 3px;
+      transform: translateY(-70%);
+    }
+    .get_your_free_business_para {
+      font-family: "Poppins", sans-serif;
+      font-size: 8px;
+      font-weight: 600;
+      line-height: 10px;
+      text-align: left;
+      color: #ffffff;
+      margin-top: 30px;
+    }
+    .get_your_free_business_para1 {
+      font-family: "Poppins", sans-serif;
+      font-size: 8px;
+      font-weight: 600;
+      line-height: 10px;
+      text-align: left;
+      color: #ffffff;
+    }
+    .hr_line_style {
+      width: 13px;
+      height: 80px;
+      margin-top: 20px;
+    }
+    .call_icon_style {
+      margin-left: 0px;
+      margin-top: 40px;
+      width: 40px;
+      height: 40px;
+    }
+    .phone_number_para {
+      font-family: "Poppins", sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      line-height: 22.4px;
+      text-align: left;
+      color: #ffffff;
+      margin-top: 30px;
+    }
+    .gmail_para {
+      font-family: "Fira Sans", sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      line-height: 26px;
+      text-align: left;
+      color: #ffffff;
+      
+    }
+    .review_img_style {
+      width: 60px;
+      height: 39px;
+    }
+    .heading_review {
+      font-family: "Montserrat", sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      line-height: 10.38px;
+      text-align: left;
+      color: #ffffff;
+      margin-left: 10px;
+    }
+    .para_review {
+      font-family: "Montserrat", sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      line-height: 13.94px;
+      text-align: left;
+      color: #ffffff;
+      margin-left: 10px;
+      width: 100%;
+    }
+    .downarrow_style {
+      width: 10px;
+      height: 10px;
+      margin-top: 30px;
+    }
+    .comment_review {
+      margin-left:0%;
+      font-family: "Montserrat", sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      line-height: 16px;
+      text-align: justify;
+      color: #ffffff;
+      margin-top: 50px;
+    }
+    .uparrow_style {
+        width: 10px;
+        height: 10px;
+      margin-top: 200px;
+    }
+    .all_inonesuite_heading {
+      margin-top: 14px;
+      font-family: "Montserrat", sans-serif;
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 14.01px;
+      text-align: center;
+      color: #ffffff;
+    }
+    .all_inonesuite_heading1 {
+      font-family: "Montserrat", sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      line-height: 16.88px;
+      text-align: center;
+      color: #ffffff;
+    }
+    .all_inonesuite_heading2 {
+      font-family: "Montserrat", sans-serif;
+      font-size: 10px;
+      font-weight: 500;
+      line-height: 20.01px;
+      text-align: center;
+      color: #ffffff;
+    }
+    .all_inonesuite_para {
+      font-family: "Montserrat", sans-serif;
+      font-size: 10px;
+      font-weight: 400;
+      line-height: 14 .01px;
+      text-align: center;
+      color: #ffffff;
+      width: 90%;
+      margin-left: 5%;
+    }
+  }
+  
+
+  @media only screen and (max-width: 360px) {
+    .main_div_getfreeoffer {
+      width: 100%;
+      height: auto;
+      background: #006bd4;
+      padding: 0;
+      margin: 0;
+      padding-bottom: 20%;
+    }
+    .free_bussiness_consultant_div {
+      background: #e00d0d;
+      width: 100%;
+      height: auto;
+      border-radius: 3px 3px 3px 3px;
+      transform: translateY(-70%);
+    }
+    .get_your_free_business_para {
+      font-family: "Poppins", sans-serif;
+      font-size: 8px;
+      font-weight: 600;
+      line-height: 10px;
+      text-align: left;
+      color: #ffffff;
+      margin-top: 30px;
+    }
+    .get_your_free_business_para1 {
+      font-family: "Poppins", sans-serif;
+      font-size: 8px;
+      font-weight: 600;
+      line-height: 10px;
+      text-align: left;
+      color: #ffffff;
+    }
+    .hr_line_style {
+      width: 13px;
+      height: 80px;
+      margin-top: 20px;
+    }
+    .call_icon_style {
+      margin-left: 0px;
+      margin-top: 40px;
+      width: 40px;
+      height: 40px;
+    }
+    .phone_number_para {
+      font-family: "Poppins", sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      line-height: 22.4px;
+      text-align: left;
+      color: #ffffff;
+      margin-top: 30px;
+      margin-left: 20%;
+    }
+    .gmail_para {
+        margin-left: 20%;
+      font-family: "Fira Sans", sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      line-height: 26px;
+      text-align: left;
+      color: #ffffff;
+      
+    }
+    .review_img_style {
+      width: 60px;
+      height: 39px;
+    }
+    .heading_review {
+      font-family: "Montserrat", sans-serif;
+      font-size: 8px;
+      font-weight: 500;
+      line-height: 10.38px;
+      text-align: left;
+      color: #ffffff;
+      margin-left: 10px;
+    }
+    .para_review {
+      font-family: "Montserrat", sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      line-height: 13.94px;
+      text-align: left;
+      color: #ffffff;
+      margin-left: 10px;
+      width: 100%;
+    }
+    .downarrow_style {
+      width: 10px;
+      height: 10px;
+      margin-top: 30px;
+    }
+    .comment_review {
+      margin-left:0%;
+      font-family: "Montserrat", sans-serif;
+      font-size: 8px;
+      font-weight: 400;
+      line-height: 16px;
+      text-align: justify;
+      color: #ffffff;
+      margin-top: 50px;
+    }
+    .uparrow_style {
+        width: 10px;
+        height: 10px;
+      margin-top: 200px;
+    }
+    .all_inonesuite_heading {
+      margin-top: 14px;
+      font-family: "Montserrat", sans-serif;
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 14.01px;
+      text-align: center;
+      color: #ffffff;
+    }
+    .all_inonesuite_heading1 {
+      font-family: "Montserrat", sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      line-height: 16.88px;
+      text-align: center;
+      color: #ffffff;
+    }
+    .all_inonesuite_heading2 {
+      font-family: "Montserrat", sans-serif;
+      font-size: 10px;
+      font-weight: 500;
+      line-height: 20.01px;
+      text-align: center;
+      color: #ffffff;
+    }
+    .all_inonesuite_para {
+      font-family: "Montserrat", sans-serif;
+      font-size: 10px;
+      font-weight: 400;
+      line-height: 14 .01px;
+      text-align: center;
+      color: #ffffff;
+      width: 90%;
+      margin-left: 5%;
+    }
+  }

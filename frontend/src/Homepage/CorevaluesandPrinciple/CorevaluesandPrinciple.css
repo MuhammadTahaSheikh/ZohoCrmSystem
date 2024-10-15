@@ -1,0 +1,149 @@
+.main_div_CorevaluesandPrinciple {
+  width: 100%;
+  height: auto;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.heading_corevalues {
+  color: #e00d0d;
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 39.01px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.heading_longterm {
+  color: #222222;
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 29.26px;
+  text-align: left;
+}
+.para_longterm {
+  color: #222222;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.5px;
+  text-align: left;
+}
+.icon_style_core{
+    width: 100%;
+}
+
+@media only screen and (max-width: 1440px) {
+    .main_div_CorevaluesandPrinciple {
+        width: 100%;
+        height: auto;
+        padding-top: 30px;
+        padding-bottom: 50px;
+      }
+      .heading_corevalues {
+        color: #e00d0d;
+        font-family: "Montserrat", sans-serif;
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 39.01px;
+        text-align: center;
+        padding-bottom: 50px;
+      }
+      .heading_longterm {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 29.26px;
+        text-align: left;
+      }
+      .para_longterm {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 19.5px;
+        text-align: left;
+      }
+      .icon_style_core{
+          width: 100%;
+      }
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .main_div_CorevaluesandPrinciple {
+        width: 100%;
+        height: auto;
+        padding-top: 30px;
+        padding-bottom: 50px;
+      }
+      .heading_corevalues {
+        color: #e00d0d;
+        font-family: "Montserrat", sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 39.01px;
+        text-align: center;
+        padding-bottom: 50px;
+      }
+      .heading_longterm {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 29.26px;
+        text-align: left;
+      }
+      .para_longterm {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 16.5px;
+        text-align: left;
+      }
+      .icon_style_core{
+          width: 100%;
+      }
+}
+
+
+@media only screen and (max-width: 600px) {
+    .main_div_CorevaluesandPrinciple {
+        width: 100%;
+        height: auto;
+        padding-top: 30px;
+        padding-bottom: 50px;
+      }
+      .heading_corevalues {
+        color: #e00d0d;
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 18.01px;
+        text-align: center;
+        padding-bottom: 50px;
+        width: 90%;
+        margin-left: 5%;
+      }
+      .heading_longterm {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 17.26px;
+        text-align: left;
+      }
+      .para_longterm {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 15.5px;
+        text-align: left;
+      }
+      .icon_style_core{
+          width: 100%;
+      }
+}

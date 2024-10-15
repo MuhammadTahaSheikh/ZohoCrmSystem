@@ -1,0 +1,275 @@
+.main_div_Ourteam {
+  width: 100%;
+  height: auto;
+  padding-top: 55px;
+  padding-bottom: 190px;
+}
+
+.ourteam_heading {
+  color: #e21c1c;
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 36px;
+  text-align: left;
+  margin-bottom: 2%;
+}
+.img_ourteam_Style {
+  width: 100%;
+}
+.red_heading_ourteam {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24.38px;
+  text-align: center;
+  color: #e00d0d;
+  margin-top: 15px;
+}
+.red_para_ourteam {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 2.5px;
+  text-align: center;
+  color: #222222;
+}
+
+.blue_heading_ourteam {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24.38px;
+  text-align: center;
+  color: #006bd4;
+  margin-top: 15px;
+}
+.yellow_heading_ourteam {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24.38px;
+  text-align: center;
+  color: #fda726;
+  margin-top: 15px;
+}
+.green_heading_ourteam {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24.38px;
+  text-align: center;
+  color: #027f00;
+  margin-top: 15px;
+}
+@media only screen and (max-width: 1200px) {
+
+
+
+    .main_div_Ourteam {
+        width: 100%;
+        height: auto;
+        padding-top: 55px;
+        padding-bottom: 190px;
+      }
+      
+      .ourteam_heading {
+        color: #e21c1c;
+        font-family: "Montserrat", sans-serif;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 36px;
+        text-align: left;
+        margin-bottom: 2%;
+      }
+      .img_ourteam_Style {
+        width: 100%;
+      }
+      .red_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #e00d0d;
+        margin-top: 15px;
+      }
+      .red_para_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 2.5px;
+        text-align: center;
+        color: #222222;
+      }
+      
+      .blue_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #006bd4;
+        margin-top: 15px;
+      }
+      .yellow_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #fda726;
+        margin-top: 15px;
+      }
+      .green_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #027f00;
+        margin-top: 15px;
+      }
+}
+
+
+@media only screen and (max-width: 991px) {
+
+
+
+    .main_div_Ourteam {
+        width: 100%;
+        height: auto;
+        padding-top: 55px;
+        padding-bottom: 190px;
+      }
+      
+      .ourteam_heading {
+        color: #e21c1c;
+        font-family: "Montserrat", sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 36px;
+        text-align: left;
+        margin-bottom: 2%;
+      }
+      .img_ourteam_Style {
+        width: 100%;
+      }
+      .red_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #e00d0d;
+        margin-top: 15px;
+      }
+      .red_para_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 2.5px;
+        text-align: center;
+        color: #222222;
+        margin-bottom: 20px !important;
+      }
+      
+      .blue_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #006bd4;
+        margin-top: 15px;
+      }
+      .yellow_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #fda726;
+        margin-top: 15px;
+      }
+      .green_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #027f00;
+        margin-top: 15px;
+      }
+}
+
+@media only screen and (max-width: 767px) {
+
+
+
+    .main_div_Ourteam {
+        width: 100%;
+        height: auto;
+        padding-top: 55px;
+        padding-bottom: 190px;
+      }
+      
+      .ourteam_heading {
+        color: #e21c1c;
+        font-family: "Montserrat", sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 36px;
+        text-align: left;
+        margin-bottom: 2%;
+      }
+      .img_ourteam_Style {
+        width: 100%;
+      }
+      .red_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #e00d0d;
+        margin-top: 15px;
+      }
+      .red_para_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 2.5px;
+        text-align: center;
+        color: #222222;
+      }
+      
+      .blue_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #006bd4;
+        margin-top: 15px;
+      }
+      .yellow_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #fda726;
+        margin-top: 15px;
+      }
+      .green_heading_ourteam {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 24.38px;
+        text-align: center;
+        color: #027f00;
+        margin-top: 15px;
+      }
+}

@@ -1,0 +1,90 @@
+.main_div_end_footer {
+  height: 80px;
+  width: 100%;
+  background-color: white;
+}
+.black_para_footer {
+  color: #000000;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  margin-top: 25px;
+}
+.red_para_footer {
+  color: #f70102;
+  font-family: "Rubik", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 25px;
+}
+@media only screen and (max-width: 991px) {
+    .main_div_end_footer {
+        height: 80px;
+        width: 100%;
+        background-color: white;
+      }
+      .black_para_footer {
+        color: #000000;
+        font-family: "Rubik", sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 26px;
+        text-align: left;
+        margin-top: 25px;
+      }
+      .red_para_footer {
+        color: #f70102;
+        font-family: "Rubik", sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 26px;
+        text-align: left;
+        margin-left: 3px;
+        margin-right: 3px;
+        margin-top: 25px;
+      }  
+      .logo_zoho_footer{
+        width: 100px;
+        height: 60px;
+      } 
+}
+
+
+@media only screen and (max-width: 450px) {
+    .main_div_end_footer {
+        height: 80px;
+        width: 100%;
+        background-color: white;
+      }
+      .black_para_footer {
+        color: #000000;
+        font-family: "Rubik", sans-serif;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 26px;
+        text-align: left;
+        margin-top: 25px;
+      }
+      .red_para_footer {
+        color: #f70102;
+        font-family: "Rubik", sans-serif;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 26px;
+        text-align: left;
+        margin-left: 3px;
+        margin-right: 3px;
+        margin-top: 25px;
+      }  
+      .logo_zoho_footer{
+        width: 70px;
+        height: 40px;
+        margin-top: 15px;
+      } 
+}

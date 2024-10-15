@@ -1,0 +1,215 @@
+.main_div_userglobally {
+  width: 100%;
+  height: auto;
+  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.img_style_userglobally {
+  text-align: center;
+  width: 136px;
+  height: 136px;
+}
+.userglobally_heading {
+  color: #222222;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.94px;
+  text-align: center;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 10px;
+  height: 40px;
+}
+.userglobally_heading_number {
+  color: #222222;
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 60.95px;
+  text-align: center;
+}
+@media only screen and (max-width: 1640px) {
+
+    .main_div_userglobally {
+        width: 100%;
+        height: auto;
+        background-color: #ffffff;
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+      .img_style_userglobally {
+        text-align: center;
+        width: 106px;
+        height: 106px;
+      }
+      .userglobally_heading {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 19.94px;
+        text-align: center;
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 10px;
+        height: 40px;
+      }
+      .userglobally_heading_number {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 42px;
+        font-weight: 700;
+        line-height: 40.95px;
+        text-align: center;
+      }
+}
+
+@media only screen and (max-width: 1200px) {
+
+    .main_div_userglobally {
+        width: 100%;
+        height: auto;
+        background-color: #ffffff;
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+      .img_style_userglobally {
+        text-align: center;
+        width: 96px;
+        height: 96px;
+      }
+      .userglobally_heading {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 19.94px;
+        text-align: center;
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 10px;
+        height: 40px;
+      }
+      .userglobally_heading_number {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 38px;
+        font-weight: 700;
+        line-height: 38.95px;
+        text-align: center;
+      }
+}
+
+
+@media only screen and (max-width: 991px) {
+
+    .main_div_userglobally {
+        width: 100%;
+        height: auto;
+        background-color: #ffffff;
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+      .img_style_userglobally {
+        text-align: center;
+        width: 76px;
+        height: 76px;
+      }
+      .userglobally_heading {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 19.94px;
+        text-align: center;
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 10px;
+        height: 40px;
+      }
+      .userglobally_heading_number {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 32.95px;
+        text-align: center;
+      }
+}
+
+
+
+@media only screen and (max-width: 850px) {
+
+    .main_div_userglobally {
+        width: 100%;
+        height: auto;
+        background-color: #ffffff;
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+      .img_style_userglobally {
+        text-align: center;
+        width: 56px;
+        height: 56px;
+      }
+      .userglobally_heading {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 16.94px;
+        text-align: center;
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 10px;
+        height: 40px;
+      }
+      .userglobally_heading_number {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 32.95px;
+        text-align: center;
+      }
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .main_div_userglobally {
+        width: 100%;
+        height: auto;
+        background-color: #ffffff;
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+      .img_style_userglobally {
+        text-align: center;
+        width: 46px;
+        height: 46px;
+      }
+      .userglobally_heading {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 11px;
+        font-weight: 500;
+        line-height: 14.94px;
+        text-align: center;
+        width: 70%;
+        margin-left: 15%;
+        margin-top: 10px;
+        height: 40px;
+      }
+      .userglobally_heading_number {
+        color: #222222;
+        font-family: "Montserrat", sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 22.95px;
+        text-align: center;
+      }
+}

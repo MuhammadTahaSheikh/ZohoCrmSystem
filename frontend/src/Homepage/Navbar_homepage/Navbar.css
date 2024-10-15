@@ -1,0 +1,176 @@
+.zoho_logo_style{
+    width: 134px;
+    height: 69px;
+    padding: 0;
+    margin: 0;
+}
+.navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    z-index: 1000 !important;
+}
+
+.navbar_items {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.5px;
+  letter-spacing: 0.05em;
+  color: #222222;
+  margin-right: 50px;
+  margin-top: 10px;
+  cursor: pointer;
+  z-index: 1000;
+}
+.btn_signup {
+  width: 152px;
+  height: 44px;
+  background: #e00d0d;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.5px;
+  letter-spacing: 0.05em;
+  text-align: center;
+  border-style: none;
+  color: #ffffff;
+  z-index: 1000;
+}
+@media only screen and (max-width: 1680px) {
+    .zoho_logo_style{
+        width: 134px;
+        height: 69px;
+        padding: 0;
+        margin: 0;
+    }
+    .navbar_items {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 19.5px;
+      letter-spacing: 0.05em;
+      color: #222222;
+      margin-right: 35px;
+      margin-top: 10px;
+      cursor: pointer;
+      z-index: 1000;
+    }
+    .btn_signup {
+      width: 132px;
+      height: 44px;
+      background: #e00d0d;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 19.5px;
+      letter-spacing: 0.05em;
+      text-align: center;
+      border-style: none;
+      color: #ffffff;
+      z-index: 1000;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .zoho_logo_style{
+        width: 134px;
+        height: 69px;
+        padding: 0;
+        margin: 0;
+    }
+    .navbar_items {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 19.5px;
+      letter-spacing: 0.05em;
+      color: #222222;
+      margin-right: 35px;
+      margin-top: 10px;
+      cursor: pointer;
+      z-index: 1000;
+    }
+    .btn_signup {
+      width: 132px;
+      height: 44px;
+      background: #e00d0d;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 19.5px;
+      letter-spacing: 0.05em;
+      text-align: center;
+      border-style: none;
+      color: #ffffff;
+      z-index: 1000;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .zoho_logo_style{
+        width: 134px;
+        height: 69px;
+        padding: 0;
+        margin: 0;
+    }
+    .navbar_items {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      line-height: 19.5px;
+      letter-spacing: 0.05em;
+      color: #222222;
+      margin-right: 20px;
+      margin-top: 10px;
+      cursor: pointer;
+      z-index: 1000;
+    }
+    .btn_signup {
+      width: 100px;
+      height: 44px;
+      background: #e00d0d;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      line-height: 19.5px;
+      letter-spacing: 0.05em;
+      text-align: center;
+      border-style: none;
+      color: #ffffff;
+      z-index: 1000;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .zoho_logo_style{
+        width: 134px;
+        height: 69px;
+        padding: 0;
+        margin: 0;
+    }
+    .navbar_items {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      line-height: 19.5px;
+      letter-spacing: 0.05em;
+      color: #222222;
+      margin-right: 10px;
+      margin-top: 10px;
+      cursor: pointer;
+      z-index: 1000;
+    }
+    .btn_signup {
+      width: 80px;
+      height: 44px;
+      background: #e00d0d;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      line-height: 19.5px;
+      letter-spacing: 0.05em;
+      text-align: center;
+      border-style: none;
+      color: #ffffff;
+      z-index: 1000;
+    }
+}
